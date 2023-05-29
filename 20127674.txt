@@ -1,0 +1,24 @@
+Thông tin tuyển thực tập sinh
+
+Bộ phận thực tập Công ty TMA Solutions xin gửi đến Quý Nhà trường thông báo tuyển sinh viên thực tập Khóa 38 (thời gian thực tập bắt đầu từ tháng 10/2022). Kính mong Quý Nhà trường hỗ trợ thông báo đến cho các bạn sinh viên.
+
+Sinh viên có nguyện vọng thực tập tại TMA Solutions, vui lòng gửi hồ sơ bản mềm về địa chỉ email intern@tma.com.vn trước ngày 31/10/2022, hồ sơ bao gồm:
+
+- CV tiếng Anh
+
+- Giấy giới thiệu và bảng điểm mới nhất có xác nhận của nhà trường
+
+- Chứng chỉ TOEIC/IELTS (nếu có)
+
+Thông tin chi tiết xin liên hệ: Huyền Trân, sđt 
+
+Xin chân thành cảm ơn sự hỗ trợ của Nhà trường.
+
+Output:
+Email: intern@tma.com.vn
+Do dai chuoi: 17
+SDT: 02838912532
+Do dai chuoi: 11
+---------------------------------
+Cach dung: Copy doan van ban bat ki, sau do paste vao: "Nhap van ban vao day: "
+Em khong lam duoc vi tri bat dau cua chuoi, sau nay em se tu bo sung nhu hanh` trang cho minh.
